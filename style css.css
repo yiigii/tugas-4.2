@@ -1,0 +1,72 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+.medsos {
+    padding: 5px 0;
+    background-color: #148F77;
+}
+.medsos ul li {
+    display: inline-block;
+    color: #fff;
+    margin-right: 10px;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+header {
+    float: right;
+}
+header ul li {
+    display: inline-block;
+}
+header ul li a{
+    padding: 25px 20px;
+    display: inline-block;
+}
+header ul li a:hover {
+    background-color:#148;
+}
+.partners list {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+.kartu-fartner {
+    width: 20%;
+    margin: 0 auto;
+}
+#contact {
+    margin: auto;
+    background: rosybrown;
+    padding: 50px 0px 50px 0px;
+    position: relative;
+}
+.footer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.footer section {
+    width: 100%;
+    margin-right: 400px;
+}
+h3 {
+    font-family: comic sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+    line-height: 50px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
